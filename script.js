@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
       const units = [
         { brand: 'KIA', title: 'FORTE SEDÁN GT TURBO 2023', transmission: 'AUTOMÁTICA', price: 415000, km: 88000, tag: 'CERTIFICADO', image: 'assets/kia-forte-gt-turbo-2023.jpeg' },
+        { brand: 'KIA', title: 'FORTE SEDÁN EX 2024', transmission: 'AUTOMÁTICA', price: 400000, km: 42000, tag: 'CERTIFICADO', image: 'assets/kia-forte-ex-2024.jpeg' },
         { brand: 'HYUNDAI', title: 'HB20 SEDÁN GL MID 2024', transmission: 'MANUAL', price: 345000, km: 59000, tag: 'GARANTIZADO', image: 'assets/hyundai-hb20-2024.jpeg' },
         { brand: 'KIA', title: 'SORENTO SXL 2024', transmission: 'AUTOMÁTICA', price: 890000, km: 14000, tag: 'CERTIFICADO', image: 'assets/kia-sorento-sxl-2024.jpeg' },
         { brand: 'NISSAN', title: 'X-TRAIL EXCLUSIVE 2021', transmission: 'AUTOMÁTICA', price: 395000, km: 57000, tag: 'GARANTIZADO', image: 'assets/nissan-xtrail-exclusive-2021.jpeg' },
@@ -9,14 +10,17 @@ document.addEventListener('DOMContentLoaded', () => {
         { brand: 'CHEVROLET', title: 'TRACKER LT 2024', transmission: 'AUTOMÁTICA', price: 365000, km: 33500, tag: 'GARANTIZADO', image: 'assets/chevrolet-tracker-lt-2024.jpeg' },
         { brand: 'KIA', title: 'FORTE HATCHBACK GT LINE 2022', transmission: 'MANUAL', price: 395000, km: 65000, tag: 'CERTIFICADO', image: 'assets/kia-forte-gtline-2022.jpeg' },
         { brand: 'KIA', title: 'SELTOS GT LINE 2021', transmission: 'AUTOMÁTICA', price: 345000, km: 85000, tag: 'CERTIFICADO', image: 'assets/kia-seltos-gt-line-2021.jpeg' },
+        { brand: 'KIA', title: 'SELTOS GT LINE 2022', transmission: 'AUTOMÁTICA', price: 405000, km: 47000, tag: 'CERTIFICADO', image: 'assets/kia-seltos-gt-line-2022.jpeg' },
         { brand: 'KIA', title: 'FORTE SEDÁN LX 2023', transmission: 'AUTOMÁTICA', price: 365000, km: 58000, tag: 'CERTIFICADO', image: 'assets/kia-forte-lx-2023.jpeg' },
         { brand: 'KIA', title: 'SOUL LX 2020', transmission: 'AUTOMÁTICA', price: 290000, km: 77700, tag: 'CERTIFICADO', image: 'assets/kia-soul-lx-2020.jpeg' },
         { brand: 'KIA', title: 'SELTOS SXL 2025', transmission: 'AUTOMÁTICA', price: 490000, km: 50000, tag: 'CERTIFICADO', image: 'assets/kia-seltos-sxl-2025.jpeg' },
+        { brand: 'KIA', title: 'SELTOS SX 2022', transmission: 'AUTOMÁTICA', price: 385000, km: 29500, tag: 'CERTIFICADO', image: 'assets/kia-seltos-sx-2022.jpeg' },
         { brand: 'FORD', title: 'BRONCO SPORT OUTER BANKS 2023', transmission: 'AUTOMÁTICA', price: 585000, km: 56000, tag: 'GARANTIZADO', image: 'assets/ford-bronco-sport-outer-banks-2023.jpeg' },
         { brand: 'TOYOTA', title: 'PRIUS C 2021', transmission: 'AUTOMÁTICA', price: 325000, km: 77500, tag: 'GARANTIZADO', image: 'assets/toyota-prius-c-2021.jpeg' },
         { brand: 'HYUNDAI', title: 'TUCSON LIMITED TECH 2023', transmission: 'AUTOMÁTICA', price: 545000, km: 48000, tag: 'GARANTIZADO', image: 'assets/hyundai-tucson-limited-tech-2023.jpeg' },
         { brand: 'KIA', title: 'RIO LX SEDAN 2023', transmission: 'AUTOMÁTICA', price: 299000, km: 70500, tag: 'CERTIFICADO', image: 'assets/kia-rio-lx-sedan-2023.jpeg' },
         { brand: 'KIA', title: 'K3 EX PACK HATCHBACK 2025', transmission: 'AUTOMÁTICA', price: 375000, km: 6500, tag: 'CERTIFICADO', image: 'assets/kia-k3-ex-pack-hatchback-2025.jpeg' },
+        { brand: 'HYUNDAI', title: 'TUCSON GLS PREMIUM 2023', transmission: 'AUTOMÁTICA', price: 445000, km: 33500, tag: 'GARANTIZADO', image: 'assets/hyundai-tucson-gls-premium-2023.jpeg' },
       ];
 
       const inventory = document.querySelector('#inventory');
