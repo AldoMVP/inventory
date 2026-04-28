@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
       const units = [
-        { brand: 'KIA', title: 'FORTE SEDÁN GT TURBO 2023', transmission: 'AUTOMÁTICA', price: 400000, km: 88000, tag: 'CERTIFICADO', image: 'assets/kia-forte-gt-turbo-2023.jpeg' },
+        { brand: 'KIA', title: 'FORTE SEDÁN GT TURBO 2023', transmission: 'AUTOMÁTICA', price: 399000, km: 88000, tag: 'CERTIFICADO', image: 'assets/kia-forte-gt-turbo-2023.jpeg' },
         { brand: 'KIA', title: 'FORTE SEDÁN EX 2024', transmission: 'AUTOMÁTICA', price: 405000, km: 77000, tag: 'CERTIFICADO', image: 'assets/kia-forte-ex-2024.jpeg' },
         { brand: 'HYUNDAI', title: 'HB20 SEDÁN GL MID 2024', transmission: 'MANUAL', price: 345000, km: 59000, tag: 'GARANTIZADO', image: 'assets/hyundai-hb20-2024.jpeg' },
         { brand: 'KIA', title: 'SORENTO SXL 2024', transmission: 'AUTOMÁTICA', price: 890000, km: 14000, tag: 'CERTIFICADO', image: 'assets/kia-sorento-sxl-2024.jpeg' },
