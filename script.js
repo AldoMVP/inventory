@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { brand: 'KIA', title: 'RIO LX SEDAN 2023', transmission: 'AUTOMÁTICA', price: 299000, km: 70500, tag: 'CERTIFICADO', image: 'assets/kia-rio-lx-sedan-2023.jpeg' },
         { brand: 'KIA', title: 'K3 EX PACK HATCHBACK 2025', transmission: 'AUTOMÁTICA', price: 375000, km: 6500, tag: 'CERTIFICADO', image: 'assets/kia-k3-ex-pack-hatchback-2025.jpeg' },
         { brand: 'HYUNDAI', title: 'TUCSON GLS PREMIUM 2023', transmission: 'AUTOMÁTICA', price: 445000, km: 33500, tag: 'GARANTIZADO', image: 'assets/hyundai-tucson-gls-premium-2023.jpeg' },
+        { brand: 'KIA', title: 'SPORTAGE EX 2023', transmission: 'AUTOMÁTICA', price: 490000, km: 59000, tag: 'CERTIFICADO', image: 'assets/kia-sportage-ex-2023.jpeg' },
       ];
 
       const inventory = document.querySelector('#inventory');
