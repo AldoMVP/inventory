@@ -23,6 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { brand: 'KIA', title: 'K3 EX PACK HATCHBACK 2025', transmission: 'AUTOMÁTICA', price: 375000, km: 6500, tag: 'CERTIFICADO', image: 'assets/kia-k3-ex-pack-hatchback-2025.jpeg' },
         { brand: 'HYUNDAI', title: 'TUCSON GLS PREMIUM 2023', transmission: 'AUTOMÁTICA', price: 445000, km: 33500, tag: 'GARANTIZADO', image: 'assets/hyundai-tucson-gls-premium-2023.jpeg' },
         { brand: 'KIA', title: 'SPORTAGE EX 2023', transmission: 'AUTOMÁTICA', price: 490000, km: 60000, tag: 'CERTIFICADO', image: 'assets/kia-sportage-ex-2023.jpeg' },
+        { brand: 'HYUNDAI', title: 'GRAND i10 HATCHBACK GL MID 2025', transmission: 'MANUAL', price: 289000, km: 15500, tag: 'GARANTIZADO', image: 'assets/hyundai-grand-i10-hatchback-gl-mid-2025.jpeg' },
       ];
 
       const inventory = document.querySelector('#inventory');
