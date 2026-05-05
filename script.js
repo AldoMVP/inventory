@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { brand: 'FORD', title: 'BRONCO SPORT OUTER BANKS 2023', transmission: 'AUTOMÁTICA', price: 599000, km: 56000, tag: 'GARANTIZADO', image: 'assets/ford-bronco-sport-outer-banks-2023.jpeg' },
         { brand: 'TOYOTA', title: 'PRIUS C 2021', transmission: 'AUTOMÁTICA', price: 325000, km: 77500, tag: 'GARANTIZADO', image: 'assets/toyota-prius-c-2021.jpeg' },
         { brand: 'HYUNDAI', title: 'TUCSON LIMITED TECH 2023', transmission: 'AUTOMÁTICA', price: 545000, km: 48000, tag: 'GARANTIZADO', image: 'assets/hyundai-tucson-limited-tech-2023.jpeg' },
-        { brand: 'KIA', title: 'RIO LX SEDAN 2023', transmission: 'AUTOMÁTICA', price: 299000, km: 70500, tag: 'CERTIFICADO', image: 'assets/kia-rio-lx-sedan-2023.jpeg' },
+        { brand: 'KIA', title: 'SPORTAGE SXL 2023', transmission: 'AUTOMÁTICA', price: 545000, km: 60100, tag: 'CERTIFICADO', image: 'assets/kia-sportage-sxl-2023.jpeg' },
         { brand: 'KIA', title: 'K3 EX PACK HATCHBACK 2025', transmission: 'AUTOMÁTICA', price: 375000, km: 6500, tag: 'CERTIFICADO', image: 'assets/kia-k3-ex-pack-hatchback-2025.jpeg' },
         { brand: 'HYUNDAI', title: 'TUCSON GLS PREMIUM 2023', transmission: 'AUTOMÁTICA', price: 445000, km: 33500, tag: 'GARANTIZADO', image: 'assets/hyundai-tucson-gls-premium-2023.jpeg' },
         { brand: 'KIA', title: 'SPORTAGE EX 2023', transmission: 'AUTOMÁTICA', price: 490000, km: 60000, tag: 'CERTIFICADO', image: 'assets/kia-sportage-ex-2023.jpeg' },
