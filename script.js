@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', () => {
         { brand: 'NISSAN', title: 'X-TRAIL EXCLUSIVE 2021', transmission: 'AUTOMÁTICA', price: 395000, km: 57000, tag: 'GARANTIZADO', image: 'assets/nissan-xtrail-exclusive-2021.jpeg' },
         { brand: 'KIA', title: 'RIO HATCHBACK LX 2022', transmission: 'MANUAL', price: 285000, km: 74000, tag: 'CERTIFICADO', image: 'assets/kia-rio-hatchback-lx-2022.jpeg' },
         { brand: 'KIA', title: 'NIRO EX 2023', transmission: 'AUTOMÁTICA', price: 530000, km: 47000, tag: 'CERTIFICADO', image: 'assets/kia-niro-ex-2023.jpeg' },
-        { brand: 'CHEVROLET', title: 'TRACKER LT 2024', transmission: 'AUTOMÁTICA', price: 365000, km: 33500, tag: 'GARANTIZADO', image: 'assets/chevrolet-tracker-lt-2024.jpeg' },
         { brand: 'KIA', title: 'FORTE HATCHBACK GT LINE 2022', transmission: 'MANUAL', price: 395000, km: 65000, tag: 'CERTIFICADO', image: 'assets/kia-forte-gtline-2022.jpeg' },
         { brand: 'KIA', title: 'SELTOS GT LINE 2021', transmission: 'AUTOMÁTICA', price: 345000, km: 85000, tag: 'CERTIFICADO', image: 'assets/kia-seltos-gt-line-2021.jpeg' },
         { brand: 'KIA', title: 'SELTOS GT LINE 2022', transmission: 'AUTOMÁTICA', price: 405000, km: 47000, tag: 'CERTIFICADO', image: 'assets/kia-seltos-gt-line-2022.jpeg' },
@@ -18,7 +17,6 @@ document.addEventListener('DOMContentLoaded', () => {
         { brand: 'FORD', title: 'BRONCO SPORT OUTER BANKS 2023', transmission: 'AUTOMÁTICA', price: 599000, km: 56000, tag: 'GARANTIZADO', image: 'assets/ford-bronco-sport-outer-banks-2023.jpeg' },
         { brand: 'HYUNDAI', title: 'TUCSON LIMITED TECH 2023', transmission: 'AUTOMÁTICA', price: 545000, km: 48000, tag: 'GARANTIZADO', image: 'assets/hyundai-tucson-limited-tech-2023.jpeg' },
         { brand: 'KIA', title: 'SPORTAGE SXL 2023', transmission: 'AUTOMÁTICA', price: 545000, km: 64100, tag: 'CERTIFICADO', image: 'assets/kia-sportage-sxl-2023.jpeg' },
-        { brand: 'KIA', title: 'K3 EX PACK HATCHBACK 2025', transmission: 'AUTOMÁTICA', price: 375000, km: 6500, tag: 'CERTIFICADO', image: 'assets/kia-k3-ex-pack-hatchback-2025.jpeg' },
         { brand: 'KIA', title: 'SPORTAGE EX 2023', transmission: 'AUTOMÁTICA', price: 490000, km: 60000, tag: 'CERTIFICADO', image: 'assets/kia-sportage-ex-2023.jpeg' },
         { brand: 'HYUNDAI', title: 'GRAND i10 HATCHBACK GL MID 2025', transmission: 'MANUAL', price: 289000, km: 15500, tag: 'GARANTIZADO', image: 'assets/hyundai-grand-i10-hatchback-gl-mid-2025.jpeg' },
       ];
