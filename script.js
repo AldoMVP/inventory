@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { brand: 'KIA', title: 'SORENTO SXL 2024', transmission: 'AUTOMÁTICA', price: 890000, km: 14000, tag: 'CERTIFICADO', image: 'assets/kia-sorento-sxl-2024.jpeg' },
         { brand: 'KIA', title: 'SORENTO EX PACK 2023', transmission: 'AUTOMÁTICA', price: 650000, km: 44000, tag: 'CERTIFICADO', image: 'assets/kia-sorento-ex-pack-2023.jpeg' },
         { brand: 'NISSAN', title: 'X-TRAIL EXCLUSIVE 2021', transmission: 'AUTOMÁTICA', price: 395000, km: 57000, tag: 'GARANTIZADO', image: 'assets/nissan-xtrail-exclusive-2021.jpeg' },
-        { brand: 'KIA', title: 'RIO HATCHBACK LX 2022', transmission: 'MANUAL', price: 285000, km: 74000, tag: 'CERTIFICADO', image: 'assets/kia-rio-hatchback-lx-2022.jpeg' },
+        { brand: 'KIA', title: 'RIO SEDAN LX 2020', transmission: 'MANUAL', price: 249000, km: 65800, tag: 'CERTIFICADO', image: 'assets/kia-rio-sedan-lx-2020.jpeg' },
         { brand: 'KIA', title: 'NIRO EX 2023', transmission: 'AUTOMÁTICA', price: 530000, km: 47000, tag: 'CERTIFICADO', image: 'assets/kia-niro-ex-2023.jpeg' },
         { brand: 'KIA', title: 'FORTE HATCHBACK GT LINE 2022', transmission: 'MANUAL', price: 395000, km: 65000, tag: 'CERTIFICADO', image: 'assets/kia-forte-gtline-2022.jpeg' },
         { brand: 'KIA', title: 'SELTOS GT LINE 2021', transmission: 'AUTOMÁTICA', price: 345000, km: 85000, tag: 'CERTIFICADO', image: 'assets/kia-seltos-gt-line-2021.jpeg' },
@@ -19,6 +19,12 @@ document.addEventListener('DOMContentLoaded', () => {
         { brand: 'KIA', title: 'SPORTAGE SXL 2023', transmission: 'AUTOMÁTICA', price: 545000, km: 64100, tag: 'CERTIFICADO', image: 'assets/kia-sportage-sxl-2023.jpeg' },
         { brand: 'KIA', title: 'SPORTAGE EX 2023', transmission: 'AUTOMÁTICA', price: 490000, km: 60000, tag: 'CERTIFICADO', image: 'assets/kia-sportage-ex-2023.jpeg' },
         { brand: 'HYUNDAI', title: 'GRAND i10 HATCHBACK GL MID 2025', transmission: 'MANUAL', price: 289000, km: 15500, tag: 'GARANTIZADO', image: 'assets/hyundai-grand-i10-hatchback-gl-mid-2025.jpeg' },
+        { brand: 'KIA', title: 'SPORTAGE SXL HIBRIDA 2025', transmission: 'AUTOMÁTICA', price: 650000, km: 87000, tag: 'CERTIFICADO', image: 'assets/kia-sportage-sxl-2025.jpeg' },
+        { brand: 'KIA', title: 'FORTE SEDÁN GT TURBO 2024', transmission: 'AUTOMÁTICA', price: 445000, km: 52000, tag: 'CERTIFICADO', image: 'assets/kia-forte-gt-turbo-2024.jpeg' },
+        { brand: 'KIA', title: 'K3 HATCHBACK LX 2026', transmission: 'MANUAL', price: 335000, km: 4700, tag: 'CERTIFICADO', image: 'assets/kia-k3-hatchback-lx-2026.jpeg' },
+        { brand: 'KIA', title: 'FORTE HATCHBACK EX 2022', transmission: 'MANUAL', price: 365000, km: 63000, tag: 'CERTIFICADO', image: 'assets/kia-forte-ex-2022.jpeg' },
+        { brand: 'MAZDA', title: '3 SEDÁN i GRAND TOURING 2023', transmission: 'AUTOMÁTICA', price: 385000, km: 40000, tag: 'GARANTIZADO', image: 'assets/mazda-3-sedan-i-grand-touring-2023.jpeg' },
+        { brand: 'KIA', title: 'K4 SEDAN GT LINE TURBO 2026', transmission: 'MANUAL', price: 525000, km: 30000, tag: 'CERTIFICADO', image: 'assets/kia-k4-sedan-gt-line-turbo-2026.jpeg' },
       ];
 
       const inventory = document.querySelector('#inventory');
